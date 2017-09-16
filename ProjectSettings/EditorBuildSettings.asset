@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+  - enabled: 1
+    path: Assets/Scenes/Persistent.unity
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 0.unity
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 1.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 3.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 0X.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 1X.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 2X.unity
+  - enabled: 1
+    path: Assets/Scenes/Room 3X.unity
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
